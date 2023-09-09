@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 
-#LINKS
+# LINKS
 
 * [Vim Basics in 8 Minutes ](https://youtu.be/ggSyF1SVFr4) ---
 Learn basic vi commands.
