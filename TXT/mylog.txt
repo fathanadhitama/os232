@@ -23,3 +23,5 @@ ZCZC W01 60 L05 Studying before Quiz
 ZCZC W01 12 L05 Week 1 Quiz 1
 ZCZC W01 60 L13 Making and updating links.md
 ZCZC W01 20 L14 Finishing, and updating mylog.txt
+
+ZCZC W02 100 Attending Class on 12/9
