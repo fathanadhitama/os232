@@ -24,4 +24,9 @@ ZCZC W01 12 L05 Week 1 Quiz 1
 ZCZC W01 60 L13 Making and updating links.md
 ZCZC W01 20 L14 Finishing, and updating mylog.txt
 
-ZCZC W02 100 Attending Class on 12/9
+ZCZC W02 15 L01 Checking POP QUIZ and Announcement Forum on SCELE
+ZCZC W02 100 L02 Attending Class on 12/9
+ZCZC W02 100 L02 Attending Class on 14/9
+ZCZC W02 90 L05 Week 2 Quiz Related
+ZCZC W02 300 L12 Weekly Assignments
+ZCZC W02 120 L32 Watching BASH Scripting tutorial
