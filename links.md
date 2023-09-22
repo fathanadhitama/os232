@@ -17,5 +17,14 @@ Each topic explained well in separated video, trusted source to learn Operating 
 
 * [PicoCTF](https://picoctf.org/) <br>
 --- A free, online cyber security gamified education platform that also helps me learn a few linux commands. **MUST TRY!!!**
+
+* [Bash Scripting Tutorial](https://youtu.be/tK9Oc6AEnR4?si=tkEV7kELXC5ceSVC)<br>
+--- A beginner-friendly tutorial to learn how to make a bash script.
+
+* [File System CrashCourse](https://youtu.be/KN8YgJnShPM?si=4bEnj0wrE0gKm8me)<br>
+--- Quick, brief and clear explanation to help you understand how files are organized in a computer using File Systems.
+
+* [Udacity: OS Visual Metaphors](https://www.youtube.com/playlist?list=PLqoiDr4YpRdm_nzFhCDuj74P8ul5z7SdO)<br>
+--- Youtube playlists that explain Operating Systems in a more understandable way.
 <br>
 <hr>
