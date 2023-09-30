@@ -26,5 +26,14 @@ Each topic explained well in separated video, trusted source to learn Operating 
 
 * [Udacity: OS Visual Metaphors](https://www.youtube.com/playlist?list=PLqoiDr4YpRdm_nzFhCDuj74P8ul5z7SdO)<br>
 --- Youtube playlists that explain Operating Systems in a more understandable way.
+
+* [How To Use Nano Editor](https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor)<br>
+--- Helps me a lot to edit text easier using Nano Text Editor.
+
+* [Grep Commands Tutorial](https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor)<br>
+--- Understand how to use grep commands better.
+
+* [How SSH Works](https://www.youtube.com/watch?v=5JvLV2-ngCI)<br>
+--- A short explanation video of what is SSH and how it works.
 <br>
 <hr>
