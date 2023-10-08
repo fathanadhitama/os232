@@ -35,5 +35,8 @@ Each topic explained well in separated video, trusted source to learn Operating 
 
 * [How SSH Works](https://www.youtube.com/watch?v=5JvLV2-ngCI)<br>
 --- A short explanation video of what is SSH and how it works.
+
+* [Basics of Dynamic Memory Allocation](https://youtu.be/udfbq4M2Kfc?si=YvJPhgd5npsLpfBq)<br>
+--- Understanding how memories are allocated in an Operating System.
 <br>
 <hr>
