@@ -38,5 +38,8 @@ Each topic explained well in separated video, trusted source to learn Operating 
 
 * [Basics of Dynamic Memory Allocation](https://youtu.be/udfbq4M2Kfc?si=YvJPhgd5npsLpfBq)<br>
 --- Understanding how memories are allocated in an Operating System.
+
+* [C Programming for Beginners](https://www.youtube.com/watch?v=KnvbUiSxvbM&list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e)<br>
+--- A recommended playlist to learn basic C Programming
 <br>
 <hr>
