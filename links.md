@@ -41,5 +41,8 @@ Each topic explained well in separated video, trusted source to learn Operating 
 
 * [C Programming for Beginners](https://www.youtube.com/watch?v=KnvbUiSxvbM&list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e)<br>
 --- A recommended playlist to learn basic C Programming
+
+* [Shared Memory Systems - Neso Academy](https://www.youtube.com/watch?v=uHtzOFwgD74&pp=ygUZaW5zZXJ0IHNoYXJlIG1lbW9yeSBpbiBvcw%3D%3D)<br>
+--- Brief explanation about Shared Memory System in less than 15 minutes
 <br>
 <hr>
