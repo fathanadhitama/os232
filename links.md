@@ -44,5 +44,9 @@ Each topic explained well in separated video, trusted source to learn Operating 
 
 * [Shared Memory Systems - Neso Academy](https://www.youtube.com/watch?v=uHtzOFwgD74&pp=ygUZaW5zZXJ0IHNoYXJlIG1lbW9yeSBpbiBvcw%3D%3D)<br>
 --- Brief explanation about Shared Memory System in less than 15 minutes
+
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)<br>
+--- The official website of the "Linux from Scratch" (LFS) project contains a step-by-step guide on how to build your own Linux distribution from source code. This guide is divided into several chapters, with each chapter containing detailed explanations and instructions.
+
 <br>
 <hr>
