@@ -48,5 +48,8 @@ Each topic explained well in separated video, trusted source to learn Operating 
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)<br>
 --- The official website of the "Linux from Scratch" (LFS) project contains a step-by-step guide on how to build your own Linux distribution from source code. This guide is divided into several chapters, with each chapter containing detailed explanations and instructions.
 
+* [How to use chroot command](https://www.howtogeek.com/441534/how-to-use-the-chroot-command-on-linux/)<br>
+--- A chroot environment provides functionality similar to that of a virtual machine, but it is a lighter solution. The captive system doesn’t need a hypervisor to be installed and configured, such as VirtualBox or Virtual Machine Manager.
+
 <br>
 <hr>
